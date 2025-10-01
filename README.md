@@ -1,19 +1,11 @@
 # consiglieri_federali
 
+## Documentation
+Qui troverai tutte le informazioni aggiuntive sul progetto.
 
-## documentazione
-### Indice
-- [Introduzione](#introduzione)
-- [Obiettivi](#obiettivi)
-- [Tecnologie](#tecnologie)
+## Table of Contents
+- [Introduction](#introduction)
+- [Documentation](#documentation)
+- [Credits](#credits)
 
----
-
-### Introduzione
-Testo introduttivo...
-
-### Obiettivi
-Elenco obiettivi...
-
-### Tecnologie
-Elenco tecnologie...
+  - [Documentation](docs/README.md)
