@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "astronomers",
+			"path": "../documents/astronomers"
+		},
+		{
+			"name": "astronomers",
+			"path": "astronomers"
+		}
+	],
+	"settings": {}
+}
