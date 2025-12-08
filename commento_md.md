@@ -1,42 +1,42 @@
-# Commento al modello concettuale
+# Commentaire sur le modèle conceptuel
 
-## person
-Ogni essere umano che è stato o è consigliere federale
-Le proprietà associate a questa classe sono:
-nome; data di nascita, data di morte, sesso e religione
-Queste proprietà sono ritenute essenziali per la persona e non variano nel corso del tempo 
-(per semplificare si ritengono la religione e il sesso proprietà essenziali sebbene in realtà sono contingenti)
+## Personne
 
-## Relazioni
-Ogni persona possiede diverse relazioni: con il luogo da cui proviene, con l'organizzazione lavorativa e con l'organizzazione politica
+Tout être humain qui a été ou est conseiller fédéral.
+Les propriétés associées à cette classe sont : nom, date de naissance, date de décès, sexe et religion.
+Ces propriétés sont considérées comme essentielles pour la personne et ne varient pas au cours du temps (pour simplifier, on considère la religion et le sexe comme des propriétés essentielles, bien qu’en réalité elles soient contingentes).
 
-queste relazioni sono *fatti sociali* 
+### Relations
 
-### Provenienza geografica
-Per esprimere la relazione di appartenenza a un luogo geografico si è proceduto nel modo seguente:
-i luoghi sono stati raggruppati in una classe di tipi: cantoni, comuni e attinenza
-nella classe dei luoghi sono inseriti le istanze
-si ha quindi una relazione n a 1 tra la classe luogo e tipo di luogo
-questa relazione esprime il fatto che un certo luogo geografico appartiene a un determinato tipo di luogo geografico
+Chaque personne possède plusieurs relations : avec le lieu d’origine, avec l’organisation professionnelle et avec l’organisation politique.
+Ces relations sont des faits sociaux.
 
-La localizzazione va così interpretata:
-essa esprime esplicitamente il fatto che una persona appartiene a un certo luogo in un determinato lasso di tempo. Entrambe sono relazioni n a 1
-pertanto la localizzazione ha come oggetto localizzante un luogo 
-mentre una persona è localizzata tramite una localizzazione 
+## Provenance géographique
 
-### Appartenenza a un'organizzazione
-L'appartenenza a un'organizzazione è espressa in modo esplicito con la tavola dell'organisation membership (relazioni n a 1)
-questa idenfica la persona coinvolta nell'apparteneza e la lega con l'organizzazione coivolta nell'appartenenza
+Pour exprimer la relation d’appartenance à un lieu géographique, la démarche suivante a été adoptée :
+les lieux ont été regroupés dans une classe de types : cantons, communes et villes.
+La classe des lieux contient les instances.
+Il existe donc une relation n à 1 entre la classe « lieu » et « type de lieu ».
+Cette relation exprime le fait qu’un certain lieu géographique appartient à un type déterminé de lieu géographique.
 
-Le organizzazioni appartengono a dei tipi, per esempio: partiti, settore pubblico, settore privato, ONG, consiglio federale,... (relazione n a 1) 
-a ogni tipo di organizzazione corrispondono delle proprietà, come fatturato, destra / sinistra, prodotti,... (relazione n a 1)
-queste proprieté possono essere raggruppate per classi e questo è espresso nella tavola "class of organisation properties" 
+La localisation doit être interprétée de la manière suivante :
+elle exprime explicitement le fait qu’une personne appartient à un certain lieu durant une période déterminée. Il s’agit, dans les deux cas, de relations n à 1.
+Ainsi, la localisation a pour objet localisant un lieu, tandis qu’une personne est localisée à travers une localisation.
 
-Quindi un'organizzazione appartiene a un tipo, ogni tipo ha le sue proprietà e le proprietà possono essere raggruppate in classi
+## Appartenance à une organisation
 
-### Ruolo all'interno di un'organizzazione
+L’appartenance à une organisation est exprimée explicitement par la table « organisation membership » (relations n à 1).
+Elle identifie la personne concernée par cette appartenance et la relie à l’organisation impliquée dans cette appartenance.
 
-Si vuole rendere esplicito il ruolo ricoperto da una persona all'interno di un organizzazione
-per farlo si è creata la classe "ruolo" in cui è espresso il fatto che la persona toccata da questa appartenenza ricopre un determinato ruolo all'interno dell'organizzazione coinvolta in questa appartenenza
+Les organisations appartiennent à des types, par exemple : partis politiques, secteur public, secteur privé, ONG, Conseil fédéral, etc. (relation n à 1).
+À chaque type d’organisation correspondent des propriétés, telles que chiffre d’affaires, orientation gauche/droite, produits, etc. (relation n à 1).
+Ces propriétés peuvent être regroupées par classes, ce qui est exprimé dans la table « type of organisation properties ». Par exemple, les propriétés « gauche » et « droite » appartiennent au type de propriété que l’on nomme « orientation politique ».
 
+Ainsi, une organisation appartient à un type, chaque type possède ses propriétés et ces propriétés peuvent être regroupées en classes.
+
+## Rôle au sein d’une organisation
+
+On souhaite rendre explicite le rôle occupé par une personne au sein d’une organisation.
+Pour ce faire, la classe « rôle » a été créée, dans laquelle est exprimé le fait que la personne concernée par cette appartenance occupe un rôle déterminé au sein de l’organisation impliquée, et ce, durant une période donnée.
+Il est donc possible, par exemple, d’exprimer qu’une personne est président de la Confédération pendant une année.
 
