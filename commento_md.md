@@ -3,8 +3,8 @@
 ## Personne
 
 Tout être humain qui a été ou est conseiller fédéral.
-Les propriétés associées à cette classe sont : nom, date de naissance, date de décès, sexe et religion.
-Ces propriétés sont considérées comme essentielles pour la personne et ne varient pas au cours du temps (pour simplifier, on considère la religion et le sexe comme des propriétés essentielles, bien qu’en réalité elles soient contingentes).
+Les propriétés associées à cette classe sont : nom, date de naissance, date de décès, genre, langue, religion et une petite définition.
+Ces propriétés sont considérées comme essentielles pour la personne et ne varient pas au cours du temps (pour simplifier, on considère la religion et le genre comme des propriétés essentielles, bien qu’en réalité elles soient contingentes).
 
 ### Relations
 
@@ -14,7 +14,7 @@ Ces relations sont des faits sociaux.
 ## Provenance géographique
 
 Pour exprimer la relation d’appartenance à un lieu géographique, la démarche suivante a été adoptée :
-les lieux ont été regroupés dans une classe de types : cantons, communes et villes.
+les lieux ont été regroupés dans une classe de types : cantons et communes.
 La classe des lieux contient les instances.
 Il existe donc une relation n à 1 entre la classe « lieu » et « type de lieu ».
 Cette relation exprime le fait qu’un certain lieu géographique appartient à un type déterminé de lieu géographique.
