@@ -5,13 +5,10 @@ https://github.com/Chiodo53/consiglieri_federali/blob/main/question%20de%20reche
 ## Modèl logique
 https://github.com/Chiodo53/consiglieri_federali/blob/main/modello%20logico.jpg
 ## Modèl conceptuel
-Format jpg.
-
+Format png.
+https://github.com/Chiodo53/consiglieri_federali/blob/main/modello%20concettuale.png
 
 Format drawio.
 https://github.com/Chiodo53/consiglieri_federali/blob/main/modello_concettuale.drawio
 ## Base de donnèes
 https://github.com/Chiodo53/consiglieri_federali/blob/main/base_dati_cf_corretta.sqlite
-##
-##
-##
