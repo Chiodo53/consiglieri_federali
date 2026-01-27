@@ -12,3 +12,10 @@ Format drawio.
 https://github.com/Chiodo53/consiglieri_federali/blob/main/modello_concettuale.drawio
 ## Base de donnèes
 https://github.com/Chiodo53/consiglieri_federali/blob/main/base_dati_cf_corretta.sqlite
+## Requêtes SQL
+https://github.com/Chiodo53/consiglieri_federali/blob/main/Requêtes%20SQL.md
+## Données format CVS
+https://github.com/Chiodo53/consiglieri_federali/blob/main/Cvs.md
+## Sources numériques
+https://github.com/Chiodo53/consiglieri_federali/blob/main/Sources%20numériques.md
+
