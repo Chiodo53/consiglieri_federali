@@ -1,0 +1,95 @@
+"persona","date_of_birth","date_of_death","gender","religion","langue","luogo","localizzazione_inizio","localizzazione_fine","organizzazione","membership_inizio","membership_fine","ruolo","ruolo_inizio","ruolo_fine"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Avenches,"1819-05-30",xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1857-01-01","1857-12-31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Avenches,"1819-05-30",xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1863-01-01","1863-01-01"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Avenches,"1819-05-30",xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1867‑01‑01","1867‑12‑31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Avenches,"1819-05-30",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Bettens,xxxx-xx-xx,"1899-11-27",Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1857-01-01","1857-12-31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1857-01-01","1857-12-31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Bettens,xxxx-xx-xx,"1899-11-27",Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1863-01-01","1863-01-01"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1863-01-01","1863-01-01"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Bettens,xxxx-xx-xx,"1899-11-27",Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1867‑01‑01","1867‑12‑31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1855-07-11","1867-10-31",Président de la confédération ,"1867‑01‑01","1867‑12‑31"
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Bettens,xxxx-xx-xx,"1899-11-27",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Constant Fornerod,"1819-07-11","1899-11-27",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Faoug,"1799-04-12",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1855-03-29",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Faoug,"1799-04-12",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Bern,xxxx-xx-xx,"1855-03-29",Conséil fédéral,"1848-11-16","1855-03-29",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1855-03-29",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Bern,xxxx-xx-xx,"1855-03-29",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Daniel-Henri Druey,"1799-04-12","1855-03-29",M,Protestant,Français,Vaud,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Lindau,"1801-10-12",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1866-12-31",,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Lindau,"1801-10-12",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1873-09-22",Conséil fédéral,"1848-11-16","1866-12-31",,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Argovie,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1866-12-31",,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1873-09-22",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Friedrich Frey-Herosé,"1801-10-12","1873-09-22",M,Protestant,Allemand,Argovie,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Locarno,"1808-10-04",xxxx-xx-xx,Conséil fédéral,"1857-07-30","1864-01-26",,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Locarno,"1808-10-04",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Locarno,xxxx-xx-xx,"1882-11-03",Conséil fédéral,"1857-07-30","1864-01-26",,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Tessin,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1857-07-30","1864-01-26",,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Locarno,xxxx-xx-xx,"1882-11-03",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Giovanni Battista Pioda,"1808-10-04","1882-11-03",M,Catholique romain,Italien,Tessin,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Affoltern am Albis,"1822-07-26",xxxx-xx-xx,Conséil fédéral,"1861-07-30","1872-05-28",Président de la confédération ,"1865‑01‑01","1865‑12‑31"
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Affoltern am Albis,"1822-07-26",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Lausanne,xxxx-xx-xx,"1879-01-13",Conséil fédéral,"1861-07-30","1872-05-28",Président de la confédération ,"1865‑01‑01","1865‑12‑31"
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1861-07-30","1872-05-28",Président de la confédération ,"1865‑01‑01","1865‑12‑31"
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Lausanne,xxxx-xx-xx,"1879-01-13",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Dubs,"1822-07-26","1879-01-13",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Wengi,"1820-02-23",xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1856‑01‑01","1856‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Wengi,"1820-02-23",xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1859-01-01","1859-12-31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Wengi,"1820-02-23",xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1862‑01‑01","1862‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Wengi,"1820-02-23",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1879-05-15",Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1856‑01‑01","1856‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1856‑01‑01","1856‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1879-05-15",Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1859-01-01","1859-12-31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1859-01-01","1859-12-31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1879-05-15",Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1862‑01‑01","1862‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1854-12-06","1863-12-31",Président de la confédération ,"1862‑01‑01","1862‑12‑31"
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1879-05-15",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jakob Stämpfli,"1820-02-23","1879-05-15",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Bad Ragaz,"1805-03-03",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1850‑01‑01","1851‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Bad Ragaz,"1805-03-03",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Bad Ragaz,"1805-03-03",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1859‑01‑0","1859‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Bad Ragaz,"1805-03-03",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1850‑01‑01","1851‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1850‑01‑01","1851‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1850‑01‑01","1851‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1855‑01‑01","1855‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1859‑01‑0","1859‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1859‑01‑0","1859‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1861-07-25",Président de la confédération ,"1859‑01‑0","1859‑12‑31"
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Winterthur,xxxx-xx-xx,"1861-07-25",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Jonas Furrer,"1805-03-03","1861-07-25",M,Protestant,Allemand,Zurich,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Olten,"1791-11-11",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1855-02-06",Président de la confédération ,"1851‑01‑01","1851‑12‑31"
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Olten,"1791-11-11",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1855-02-06",Conséil fédéral,"1848-11-16","1855-02-06",Président de la confédération ,"1851‑01‑01","1851‑12‑31"
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Soleure,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1855-02-06",Président de la confédération ,"1851‑01‑01","1851‑12‑31"
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Bern,xxxx-xx-xx,"1855-02-06",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Martin Josef Munzinger,"1791-11-11","1855-02-06",M,Protestant,Allemand,Soleure,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,"1813-11-16",xxxx-xx-xx,Conséil fédéral,"1855-07-14","1875-12-31",,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,"1813-11-16",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,xxxx-xx-xx,"1889-01-14",Conséil fédéral,"1855-07-14","1875-12-31",,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1855-07-14","1875-12-31",,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,xxxx-xx-xx,"1889-01-14",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Melchior Josef Martin Knüsel,"1813-07-14","1889-01-14",M,Catholique romain,Allemand,Lucerne,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Bodio,"1796-10-2",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1857-07-19",,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Bodio,"1796-10-2",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Bern,xxxx-xx-xx,"1857-07-19",Conséil fédéral,"1848-11-16","1857-07-19",,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Tessin,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1857-07-19",,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Bern,xxxx-xx-xx,"1857-07-19",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Stefano Franscini,"1796-10-23","1857-07-19",M,Catholique romain,Italien,Tessin,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Port,,"1890-11-03",Conséil fédéral,"1848-11-16","1854-12-06",Président de la confédération ,"1854‑01‑01","1854‑12‑31"
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Port,,"1890-11-03",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Unterlangenegg,"1811-11-24",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1854-12-06",Président de la confédération ,"1854‑01‑01","1854‑12‑31"
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Unterlangenegg,"1811-11-24",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1854-12-06",Président de la confédération ,"1854‑01‑01","1854‑12‑31"
+Ulrich Ochsenbein,"1811-11-24","1890-11-03",M,Protestant,Allemand,Berne,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,Altstätten,"1802-02-19",xxxx-xx-xx,Conséil fédéral,"1848-11-16","1875-12-31",Président de la confédération ,"1853‑01‑01","1853‑12‑31"
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,Altstätten,"1802-02-19",xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,Muri bei Bern,xxxx-xx-xx,"1881-01-21",Conséil fédéral,"1848-11-16","1875-12-31",Président de la confédération ,"1853‑01‑01","1853‑12‑31"
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,St. Gallen,xxxx-xx-xx,xxxx-xx-xx,Conséil fédéral,"1848-11-16","1875-12-31",Président de la confédération ,"1853‑01‑01","1853‑12‑31"
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,Muri bei Bern,xxxx-xx-xx,"1881-01-21",FDP,xxxx-xx-xx,xxxx-xx-xx,,,
+Wilhelm Matthias Naeff,"1802-02-19","1881-01-21",M,Protestant,Allemand,St. Gallen,xxxx-xx-xx,xxxx-xx-xx,FDP,xxxx-xx-xx,xxxx-xx-xx,,,
